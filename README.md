@@ -33,13 +33,14 @@ Types of Classification Models:
 * ROC w/AUC
 * Precision Recall Curve
 * LogOdds
-* Decision Tree -  - followed by Feature Importance
+* Decision Tree
+* Feature Importance
 * kNN
 * Naive Bayes
 * Gaussian 
 * SVM
 * XGBoost
 * Bagging Decision Trees
-* Random Forest - followed by Feature Importance
+* Random Forest 
 
 
