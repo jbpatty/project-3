@@ -28,3 +28,18 @@ After training and testing my model I was able to increase the models prediction
 separate True Successes vs False Successes which increases the model’s precision in predicting successful startups which will help limit the risk for VCs and 
 its limited partners. 
 
+Types of Classification Models:
+* Logistic Regression
+* ROC w/AUC
+* Precision Recall Curve
+* LogOdds
+* Decision Tree -  - followed by Feature Importance
+* kNN
+* Naive Bayes
+* Gaussian 
+* SVM
+* XGBoost
+* Bagging Decision Trees
+* Random Forest - followed by Feature Importance
+
+
